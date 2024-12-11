@@ -1,0 +1,14 @@
+.menu{
+  width: 60%;
+  margin: 25px auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+.active{
+    color: green;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
