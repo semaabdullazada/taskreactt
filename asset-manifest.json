@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskreactt/static/css/main.a0879719.css",
+    "main.js": "/taskreactt/static/js/main.ef442c9a.js",
+    "index.html": "/taskreactt/index.html",
+    "main.a0879719.css.map": "/taskreactt/static/css/main.a0879719.css.map",
+    "main.ef442c9a.js.map": "/taskreactt/static/js/main.ef442c9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0879719.css",
+    "static/js/main.ef442c9a.js"
+  ]
+}
